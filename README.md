@@ -14,7 +14,7 @@ Linguagens e tecnologias aplicadas no projeto:
 - Insominia
 
 #### Objetivo
-A aplicação desenvolvida, chamada de **Be The Hero**, tem o objetivo relacionar pessoas que querem ajudar há ONGs que necessitam de doações.
+A aplicação desenvolvida, chamada de **Be The Hero**, tem o objetivo relacionar pessoas que querem ajudar à ONGs que necessitam de doações.
 
 #### Passo a Passo
 >Escolhemos a linguagem JavaScript com base central por ela ser utilizada em toda Stack.
